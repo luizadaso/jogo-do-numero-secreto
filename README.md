@@ -28,6 +28,11 @@ Projeto desenvolvido como parte do **Programa Oracle Next Education G8 + Alura**
 
 👉 [Jogar agora](https://luizadaso.github.io/jogo-do-numero-secreto/)  
 
+### 🎥 Confira no gif abaixo o funcionamento do jogo! ⬇️
+
+![Projeto 2](https://github.com/user-attachments/assets/43cb6c60-abd3-4544-a08b-fdcc12c3234d)
+
+
 ### 👨‍💻 Autor  
 
 Criado por [@luizadaso](https://github.com/luizadaso) 🚀  
