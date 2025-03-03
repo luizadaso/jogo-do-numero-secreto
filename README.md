@@ -33,8 +33,15 @@ Projeto desenvolvido como parte do **Programa Oracle Next Education G8 + Alura**
 ![Projeto 2](https://github.com/user-attachments/assets/43cb6c60-abd3-4544-a08b-fdcc12c3234d)
 
 
-### 👨‍💻 Autor  
+### 👨‍💻 Autora
 
-Criado por [@luizadaso](https://github.com/luizadaso) 🚀  
+Para mais informações, sinta-se à vontade para entrar em contato:
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/57cac2a3-49b1-4a0a-aef3-e968523971eb" width="13%" alt="autora" />
+</div>
+
+- [Github](https://github.com/luizadaso)
+- [Linkedin](https://www.linkedin.com/in/luizadaso)  
 
 Se gostou do projeto, não esqueça de deixar uma ⭐ no repositório! 😊  
